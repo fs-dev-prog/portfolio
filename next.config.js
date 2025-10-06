@@ -23,5 +23,5 @@ module.exports = {
       },
     ],
   },
-  output: 'export', // Enables static export mode
+  // output: 'export', // Enables static export mode
 }
