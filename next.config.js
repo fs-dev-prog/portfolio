@@ -1,7 +1,6 @@
 const path = require('path')
  
 module.exports = {
-  output: 'export', // Enables static export mode
   sassOptions: {
     includePaths: [path.join(__dirname, 'styles')],
   },
